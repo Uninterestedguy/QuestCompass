@@ -12,7 +12,7 @@ QuestCompass is a comprehensive repository dedicated to unveiling India's vacati
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or questions regarding QuestCompass, please don't hesitate to contact our team at [support@questcompass.com](mailto:support@questcompass.com). We are here to assist you and provide any support you may need.
+If you have any feedback, suggestions, or questions regarding QuestCompass, please don't hesitate to contact our team at [support@questcompass.com](mailto:vishnureddy228@gmail.com). We are here to assist you and provide any support you may need.
 
 ## License
 
