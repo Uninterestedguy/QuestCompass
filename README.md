@@ -14,6 +14,16 @@ QuestCompass is a comprehensive repository dedicated to unveiling India's vacati
 
 - **Travel Tips and Guides**: Gain invaluable insights and practical travel tips to make the most of your Indian adventure. Find information on transportation options, accommodations, local customs, cuisine, and safety precautions to ensure a seamless and enjoyable journey.
 
+## How To Launch The App in Local PC
+
+1) Install **XAMPP** inside you local PC
+2) Download the zip file of this repo
+3) Extract the zip file
+4) Move the main folder of this repo to **htdocs** folder of **XAMPP**
+5) Run the **XAMPP** and activate Apache,SQL services
+6) Import the **waffle.sql** file into SQL database
+7) Run the index.php in localhost/main
+
 ## 📣 Feedback and Support
 
 If you have any feedback, suggestions, or questions regarding QuestCompass, please don't hesitate to contact our team at [support@questcompass.com](mailto:support@questcompass.com). We are here to assist you and provide any support you may need.
