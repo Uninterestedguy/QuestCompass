@@ -117,7 +117,7 @@
     <div class="flex-container1">
         <div class="flex-items item1">
             <h3>Ooty</h3>
-            <h4>I made many projects on front end web development using html , css, javascript</h4>
+            
             <div class="start">
                 <button class="know_more">
                     <li><a href="">Find out </a></li>
@@ -127,7 +127,7 @@
 
         <div class="flex-items item2">
             <h3>Pondicherry</h3>
-            <h4>I made many projects on front end web development using html , css, javascript</h4>
+            
             <div class="start">
                 <button class="know_more">
                     <li><a href="">Find out </a></li>
@@ -137,7 +137,7 @@
 
         <div class="flex-items item3">
             <h3>Mumbai</h3>
-            <h4>I made many projects on front end web development using html , css, javascript</h4>
+            
             <div class="start">
                 <button class="know_more">
                     <li><a href="">Find out </a></li>
@@ -149,7 +149,7 @@
     <div class="flex-container2">
         <div class="flex-items item4">
             <h3>Goa</h3>
-            <h4>I made many projects on front end web development using html , css, javascript</h4>
+            
             <div class="start">
                 <button class="know_more">
                     <li><a href="">Find out </a></li>
@@ -158,8 +158,8 @@
         </div>
 
         <div class="flex-items item5">
-            <h3>Kerala</h3>
-            <h4>I made many projects on front end web development using html , css, javascript</h4>
+            <h3>Hyderabad</h3>
+            
             <div class="start">
                 <button class="know_more">
                     <li><a href="">Find out </a></li>
@@ -169,7 +169,7 @@
 
         <div class="flex-items item6">
             <h3>Manali</h3>
-            <h4>I made many projects on front end web development using html , css, javascript</h4>
+            
             <div class="start">
                 <button class="know_more">
                     <li><a href="">Find out </a></li>
