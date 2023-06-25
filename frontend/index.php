@@ -22,11 +22,44 @@
     ></script>
     
     <title>Quest Compass</title>
-
     <link rel="stylesheet" href="styles.css"/>
     <script defer src="source.js"></script>
 
 </head>
+<style>
+    #cal {
+      width: 200px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: orange; /* Add your desired background color */
+  color: black; /* Add your desired text color */
+  position: relative;
+  left: 22%;
+
+}
+.btn {
+  position: absolute;
+  top: 180px;
+  left: 48.5%;
+  transform: translate(-50%, -50%);
+  padding: 11px 16px;
+  background-color: #ff8e09;
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: -4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 124px;
+  height: 45px;
+}
+    </style>
+
 <body>
 <!--_____________________________________Navbar____________________________________-->
      <header>
@@ -39,7 +72,8 @@
                 <li><button class="plan"><a href="#select_date">Plan a trip</a></button></li>
             </ul>
         </nav>
-        
+        <div class="line">
+        </div>
 
     </header>
 
@@ -65,27 +99,15 @@
 <section id="select_date" class="select_date hidden" >
     <div class="date">
         <h1>Select a date</h1>
-        <form>
-            <span>
-                <label for="day">Day:</label>
-                <select name="day" id="day"></select>
-            </span>
-            <span>
-                <label for="month">Month:</label>
-                <select name="month" id="month"></select>
-            </span>
-            <span>
-                <label for="year">Year:</label>
-                <select name="year" id="year">Year:</select>
-            </span>
-        </form>
+
+        <form action="find.php">
+  <label for="cal"></label>
+  <input type="date" id="cal" name="month">
+  <input type="submit" class='btn'>
+</form>
 
     
-        <div class="start">
-            <button class="know_more">
-                <li><a href="find.html">Find out </a></li>
-            </button>  
-        </div>
+        
     </div>
 </section>
 
@@ -183,7 +205,7 @@
         </label>
        </div>
     
-       <button  class="send"type="submit">Send <i class="fas fa-solid fa-paper-plane fa-bounce"></i></button>
+       <button type="submit">Send <i class="fas fa-solid fa-paper-plane fa-bounce"></i></button>
 
     </form>
     </div>

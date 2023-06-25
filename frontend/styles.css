@@ -134,7 +134,7 @@ main h2 {
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
-    padding: 5px 20px;
+    padding: 12px 24px;
     border: none;
     background-color: #ff8e09;
     transition: 0.6s;
@@ -350,7 +350,8 @@ form span{
 }
 
 button, input, select, textarea {
-    font-family: 'Roboto', sans-serif;
-    font-size: 100%;
-    background-color: transparent;
-  }
+  font-family: 'Roboto', sans-serif;
+  font-size: 100%;
+  background-color: #f48208f5;
+  padding: 4px 20px;
+}
