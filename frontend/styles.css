@@ -10,6 +10,12 @@
     box-sizing: border-box;
 }
 
+.logo {
+  position: relative;
+  left: -32%;
+  top: -10%;
+}
+
 html,body {
     height: 100%;
     width: 100%;
@@ -22,22 +28,25 @@ li {
     text-decoration: none;
     
   }
+
 nav{
     background-color: rgba(243, 196, 39,0.75);
     display: flex;
     justify-content:flex-end;
     align-items: center;
-    padding: 30px 5%;
+    padding: 16px 5%;
     list-style: none;
   }
 nav li{
     display: inline-block;
     padding: 0px 20px;
+    
   }
 nav li a {
     transition: all 0.3s ease 0s;
     text-decoration: none;
     color: #000;
+    
   }
 nav li a:hover {
     color: #ff8e09;

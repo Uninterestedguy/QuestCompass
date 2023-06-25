@@ -65,12 +65,15 @@
      <header>
        
         <nav>
+        <img alt="LOGO" class="logo" src="logo.png" width="277.5" height="28.125">
+        
             <ul class="navbar">
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#Destinations">Destinations</a></li>
                 <li><a href="#Contact">Contact us</a></li>
                 <li><button class="plan"><a href="#select_date">Plan a trip</a></button></li>
             </ul>
+        
         </nav>
         <div class="line">
         </div>
