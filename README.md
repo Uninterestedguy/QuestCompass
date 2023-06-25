@@ -1,4 +1,4 @@
-# QuestCompass
+<h1 align="center"> QuestCompass</h1>
 
 <p align="center">
   <img src="https://github.com/Uninterestedguy/QuestCompass/blob/main/frontend/heroimg.png">
