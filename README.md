@@ -1,7 +1,7 @@
 # QuestCompass
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="QuestCompass Logo">
+  <img src="https://github.com/Uninterestedguy/QuestCompass/blob/main/frontend/heroimg.png">
 </p>
 
 QuestCompass is a comprehensive repository dedicated to unveiling India's vacation wonders. Whether you're seeking serene beaches, majestic mountains, or cultural experiences, QuestCompass is your ultimate guide to exploring the captivating destinations that India has to offer.
@@ -23,7 +23,7 @@ If you have any feedback, suggestions, or questions regarding QuestCompass, plea
 QuestCompass is released under the [MIT License](LICENSE). Feel free to use the information and resources provided in this repository, but kindly attribute and acknowledge the source when necessary.
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="QuestCompass Screenshot">
+  <img src="https://github.com/Uninterestedguy/QuestCompass/blob/main/frontend/travel_concept_9-01-%5BConverted%5Dwd.png">
 </p>
 
 Happy exploring with QuestCompass! ✨🌍
