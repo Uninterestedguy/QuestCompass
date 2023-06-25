@@ -65,7 +65,7 @@
      <header>
        
         <nav>
-        <img alt="LOGO" class="logo" src="logo.png" width="277.5" height="28.125">
+        <img alt="LOGO" class="logo" src="logo.png" width="300" height="32">
         
             <ul class="navbar">
                 <li><a href="#Home">Home</a></li>
@@ -75,8 +75,7 @@
             </ul>
         
         </nav>
-        <div class="line">
-        </div>
+    
 
     </header>
 

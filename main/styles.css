@@ -10,10 +10,14 @@
     box-sizing: border-box;
 }
 
+#Socials {
+  background-color: #e8aa42;
+}
+
 .logo {
   position: relative;
-  left: -32%;
-  top: -10%;
+  left: -30%;
+  top: -20%;
 }
 
 html,body {
